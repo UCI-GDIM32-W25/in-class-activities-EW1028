@@ -1,6 +1,4 @@
 # GDIM32 In Class Activities
-## Instructions
-# symbols = smaller header.
 
 ## Devlogs
 ### W1
