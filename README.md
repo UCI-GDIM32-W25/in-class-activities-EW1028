@@ -16,3 +16,7 @@ Going to office hour and ask questions, even you don't have any questions do you
 #### Activity 3
 [Activity 3 breakdown Google doc]
 (https://docs.google.com/document/d/15_HFzD7qHn72CA-2sku_BtfdMzhq6NBtRONPqSFgEHI/edit?tab=t.0)
+
+### W2
+#### Activity 1
+
