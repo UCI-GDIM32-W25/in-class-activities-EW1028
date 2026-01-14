@@ -19,4 +19,6 @@ Going to office hour and ask questions, even you don't have any questions do you
 
 ### W2
 #### Activity 1
+![IMG_0554](https://github.com/user-attachments/assets/5a59f0f9-168c-4990-95b2-3cbe6f1b45bf)
 
+#### Activity 2
