@@ -22,3 +22,5 @@ Going to office hour and ask questions, even you don't have any questions do you
 ![IMG_0554](https://github.com/user-attachments/assets/5a59f0f9-168c-4990-95b2-3cbe6f1b45bf)
 
 #### Activity 2
+[MG2](https://github.com/UCI-GDIM32-W25/mg2-EW1028/commit/44f2885354db45fc5e37a116bdc72bf781ad118a)
+I finished the player scriptc my game object can jump now. Also I started my UI.
