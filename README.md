@@ -42,8 +42,10 @@ Only one locator component will show up in the gameobject, becasue it is a singl
 #### Activity 2
 ![IMG_0990](https://github.com/user-attachments/assets/e8ac50a6-ed58-47e2-9a5c-61e14b57ad2b)
 
-
 #### Activity 3
+[MG4](https://github.com/EW1028/HW4/commit/2ff19bf4772b18715faf4d7375ceba22b05b0ad1)
+I make the HW4 project, and I make the player and some script. I am putting the UI/sprite inside the unity.
+
 
 
 
