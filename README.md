@@ -40,7 +40,10 @@ Marcelo Tolosa
 Only one locator component will show up in the gameobject, becasue it is a singleton.
 
 #### Activity 2
-![IMG_0759](https://github.com/user-attachments/assets/5d912865-35ea-4779-9598-3450a44726da)
+![IMG_0990](https://github.com/user-attachments/assets/e8ac50a6-ed58-47e2-9a5c-61e14b57ad2b)
+
 
 #### Activity 3
+
+
 
