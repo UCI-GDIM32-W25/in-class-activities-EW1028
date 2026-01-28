@@ -32,3 +32,15 @@ Jamin Pinson
 #### Activity 3
 ![IMG_0759](https://github.com/user-attachments/assets/5d912865-35ea-4779-9598-3450a44726da)
 
+### W4
+#### Activity 0
+Marcelo Tolosa
+
+#### Activity 1
+Only one locator component will show up in the gameobject, becasue it is a singleton.
+
+#### Activity 2
+![IMG_0759](https://github.com/user-attachments/assets/5d912865-35ea-4779-9598-3450a44726da)
+
+#### Activity 3
+
