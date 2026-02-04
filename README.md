@@ -46,6 +46,13 @@ Only one locator component will show up in the gameobject, becasue it is a singl
 [MG4](https://github.com/EW1028/HW4/commit/2ff19bf4772b18715faf4d7375ceba22b05b0ad1)
 I make the HW4 project, and I make the player and some script. I am putting the UI/sprite inside the unity.
 
+### W5
+#### Activity 1
+I think the design using an abstract class and an interface is effective becasue Item abstract class ensures all items can be used, while the IBreakable iterface is only applied to items that can actually break, such as the Axe and Torch. This keeps the code organized and avoids unnecessary duarability logic on items like the ElvenSword. If I were building a larger project, I would basically keep this design, but I would consider putting the damaged logic in a common class to reduce duplicate code. Inaddition, this design is simple, flexible and easy to expand.
+
+#### Activity 2
+
+
 
 
 
