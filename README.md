@@ -73,7 +73,7 @@ Singleton: GameController (sent event)
 
 The stay of the seed of growth, steammachine
 
-#### activity 4:
+#### Activity 4:
 
 Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 
