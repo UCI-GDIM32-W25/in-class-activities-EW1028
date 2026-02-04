@@ -69,6 +69,8 @@ Singleton: GameController (sent event)
 
 Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 
+Proposal:[Final Project Proposal First Draft]https://docs.google.com/document/d/1xih16oloKwzPrgx0m7rAdHD8XQO2XJP5otpn2PSakoM/edit?tab=t.0#heading=h.y4j3q551ojs1
+
 
 
 
