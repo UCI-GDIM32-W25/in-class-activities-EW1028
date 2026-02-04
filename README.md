@@ -55,6 +55,12 @@ In W5_Demo2, the Model consists of a ScriptableObject of ItemW5Demo2 and a list<
 
 #### Activity 3
 
+##### Scenario 1
+There are need be have a sprite, prefab, scriptable, organzing data for a rhythm game.
+
+##### Scenario 2
+All of the character, there ability caring out the ability that causing damage to other player, and UI actviting all the ability.
+
 ##### Scenario 3
 
 View:InventoryIU, DialogueUI, animation, SFX.
@@ -64,6 +70,8 @@ Control:Player NPC Object(plant, stone)
 Model:Items, NPC, Object (ScriptableObject)
 
 Singleton: GameController (sent event)
+
+The stay of the seed of growth, steammachine
 
 #### activity 4:
 
