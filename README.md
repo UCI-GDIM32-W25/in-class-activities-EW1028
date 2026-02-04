@@ -51,6 +51,7 @@ I make the HW4 project, and I make the player and some script. I am putting the 
 I think the design using an abstract class and an interface is effective becasue Item abstract class ensures all items can be used, while the IBreakable iterface is only applied to items that can actually break, such as the Axe and Torch. This keeps the code organized and avoids unnecessary duarability logic on items like the ElvenSword. If I were building a larger project, I would basically keep this design, but I would consider putting the damaged logic in a common class to reduce duplicate code. Inaddition, this design is simple, flexible and easy to expand.
 
 #### Activity 2
+In W5_Demo2, the Model consists of a ScriptableObject of ItemW5Demo2 and a list<ItemW5Demo2> held by the player. These componts are solely responsible for storing and defining data for game items, without containing any display or input logic. The View comprises InventoryUI and SpriteRender, which are only responsible for visualizing the data, such as displaying the item list and the player character's appearance on the screen, without directly modifying the data. The Controller is PlayerW5Demo2, which recives player input, controls character behavior, and passes model data to the UI at appropriate times, thus coordinatng the interaction between the Model and View, adhering to the separation of responsibility design priciple of MVC
 
 
 
