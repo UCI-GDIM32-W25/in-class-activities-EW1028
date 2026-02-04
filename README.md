@@ -55,7 +55,7 @@ In W5_Demo2, the Model consists of a ScriptableObject of ItemW5Demo2 and a list<
 
 #### Activity 3
 
-###### Scenario 3
+##### Scenario 3
 
 View:InventoryIU, DialogueUI, animation, SFX.
 
@@ -65,7 +65,7 @@ Model:Items, NPC, Object (ScriptableObject)
 
 Singleton: GameController (sent event)
 
-### activity 4:
+#### activity 4:
 
 Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 
