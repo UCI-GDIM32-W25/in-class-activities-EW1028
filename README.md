@@ -79,6 +79,14 @@ Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 
 Proposal:[Final Project Proposal First Draft](https://docs.google.com/document/d/1xih16oloKwzPrgx0m7rAdHD8XQO2XJP5otpn2PSakoM/edit?tab=t.0#heading=h.y4j3q551ojs1)
 
+### W6
+#### Activity 1:
+We have questions about why the game is playing so slow, we can use performance profiling to check which methods performance a issue. Gizmos to see the boundary of the colliders. So in our game we probably going to use collider to detect the where is the enemies.
+
+#### Activity 2:
+Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
+
+Proposal:[Final Project Proposal Final Draft](https://docs.google.com/document/d/1xih16oloKwzPrgx0m7rAdHD8XQO2XJP5otpn2PSakoM/edit?tab=t.0#heading=h.y4j3q551ojs1)
 
 
 
