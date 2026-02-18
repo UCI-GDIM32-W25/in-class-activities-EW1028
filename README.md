@@ -88,6 +88,15 @@ Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 
 Proposal:[Final Project Proposal Final Draft](https://docs.google.com/document/d/1xih16oloKwzPrgx0m7rAdHD8XQO2XJP5otpn2PSakoM/edit?tab=t.0#heading=h.y4j3q551ojs1)
 
+### W7
+#### Activity 1:
+In thd demo, we used a finite state machine to control the duck the NPC with teo states, wandering and pursuing. The duck uses raycast to check if it can see the player, it switches to the pursue state and moves toward the player using normalized vectors, rotation, and time.detlatime. if it does not see the player, it wanders in a random direction and uses a spherecast to avoid items that block the way.
+
+#### Activity 2:
+Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
+
+#### Activity 3:
+
 
 
 
