@@ -96,6 +96,7 @@ In thd demo, we used a finite state machine to control the duck the NPC with teo
 Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 
 #### Activity 3:
+![Final Breakdown](https://github.com/user-attachments/assets/313bf285-c90e-40b9-8c6b-319477e1a421)
 
 
 
