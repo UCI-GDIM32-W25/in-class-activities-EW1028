@@ -102,6 +102,7 @@ Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 Breakdown:[Final Breakdown](https://trello.com/b/CdYH9Ffo/gdim-32-final-project-list)
 
 #### Activity 5:
+Final:[Final](https://github.com/EW1028/GDIM32-Final/commit/dbd40649d14edf5a8f213736e1b8f153c1c65fd3)
 We created a simple background and a sample player. We created the scripts and all the files, and we are working on the movement.
 
 
