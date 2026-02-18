@@ -98,6 +98,9 @@ Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 #### Activity 3:
 ![Final Breakdown](https://github.com/user-attachments/assets/313bf285-c90e-40b9-8c6b-319477e1a421)
 
+#### Activity 4:
+Breakdown:[Final Breakdown](https://trello.com/b/CdYH9Ffo/gdim-32-final-project-list)
+
 
 
 
