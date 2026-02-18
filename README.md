@@ -101,6 +101,8 @@ Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 #### Activity 4:
 Breakdown:[Final Breakdown](https://trello.com/b/CdYH9Ffo/gdim-32-final-project-list)
 
+#### Activity 5:
+We created a simple background and a sample player. We created the scripts and all the files, and we are working on the movement.
 
 
 
