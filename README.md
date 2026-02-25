@@ -112,4 +112,13 @@ In the demo, the rendering pipeline controls how a game is drawn to the screen, 
 #### Activity 2:
 Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 
+#### Activity 3:
+The movement is a little bit slow, need to follow what player moves. When player is moving the gun should move as the player moves. Clear on the final target or goal. Add a crosshair to aim the target.
+
+#### Activity 4:
+I will do the different kinds of lights, and 2 unique 3D animations on ememies and the NPC, also I will do the aduio track for background music.
+
+#### Activity 5:
+I am working on the game controller and the sfx. but the code are not wroking yet, I will fix it later.
+
 
