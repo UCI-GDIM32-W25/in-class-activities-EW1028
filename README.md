@@ -104,5 +104,11 @@ Breakdown:[Final Breakdown](https://trello.com/b/CdYH9Ffo/gdim-32-final-project-
 #### Activity 5:
 We created a simple background and a sample player. We created the scripts and all the files, and we are working on the movement.
 
+### W7
+#### Activity 1:
+In the demo, the rendering pipeline controls how a game is drawn to the screen, and it's important to check whether the project uses built in, URP, or HDRP because assets must match the correct pipline. Post processing effects are the full screen shaders, like bloom and color grading, that improve the overall bisual style and the theme of the game. To set it up in hte build in pipline, the post processign package, added a post process layer to the camera, created a global post process volume, and adjusted the effect settings.
+
+#### Activity 2:
+Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
 
 
