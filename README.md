@@ -105,7 +105,7 @@ Breakdown:[Final Breakdown](https://trello.com/b/CdYH9Ffo/gdim-32-final-project-
 Final:[Final](https://github.com/EW1028/GDIM32-Final/commit/dbd40649d14edf5a8f213736e1b8f153c1c65fd3)
 We created a simple background and a sample player. We created the scripts and all the files, and we are working on the movement.
 
-### W7
+### W8
 #### Activity 1:
 In the demo, the rendering pipeline controls how a game is drawn to the screen, and it's important to check whether the project uses built in, URP, or HDRP because assets must match the correct pipline. Post processing effects are the full screen shaders, like bloom and color grading, that improve the overall bisual style and the theme of the game. To set it up in hte build in pipline, the post processign package, added a post process layer to the camera, created a global post process volume, and adjusted the effect settings.
 
@@ -122,4 +122,19 @@ I will do the different kinds of lights, and 2 unique 3D animations on ememies a
 I am working on the game controller and the sfx. but the code are not wroking yet, I will fix it later.
 Final:[Final](https://github.com/EW1028/GDIM32-Final)
 
+### W9
+#### Activity 1:
+In the demo, single dialogue, the duck NPC stores dialogue lines in an array and shows two player reply options that trigger methods like ClickGoodOption() or ClickedBadoption(). This system works for the simple conversations but does not scale well because adding more options would require writting more code and UI buttons. In the second demo, dialogue is stored in, ScriptableObjects called DialogueNode, which contain NPC lines, player reply options, and references to the next dialogue nodes to create branching conversations.
 
+#### Activity 2:
+Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
+
+#### Activity 3:
+During playtest testing, the playtester said our game's movement has improved a lot compared with the last version. They suggested we can adjust the reload cooldown, as they think the current reload time is too long and feels clunky. They also pointed out that the pistol having 100 bullets in our test build is a bit unreasonable. So, we should add NPC dialogue to guide new players, since some players who are new to FPS games tried to shoot with the Space key instead of the left mouse button. We also need to optimize the terrain, because the current map looks a bit plain. We think our progress is still better than expected. Moving on, we will adjust the reload cooldown, balance the ammo amount, add player guidance through NPC dialogue, optimize the terrain and decorations, improve some code, add models for enemies and NPCs, and add more interactive elements in the level.
+
+#### Activity 4:
+We made some change on the shooting animations for game characters from last week. Players can now shoot and get hit feedback. We also added BGM and basic sound effects, such as shooting sounds and reloading sounds, which make the game has more basic interactions. We improved the map as well, adding terrain and trees and so on. Finally, we wrote code for NPCs but haven't added them to the game yet. We think our progress is better than expected. We still need to optimize the terrain and decorations, improve some code, and add NPC dialogue scripts to the game. We also plan to add models for enemies and NPCs, and include more interactive elements in the level.
+
+#### Activity 5:
+We are working on the enemies and shooting. We also talks about what are we going to do next.
+Final:[Final New Vision](https://github.com/EW1028/GDIM32-Final/commit/d62c888b79d44cbc6c77aba274d41712bfeada4e)
