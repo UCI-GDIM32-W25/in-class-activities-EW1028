@@ -138,3 +138,18 @@ We made some change on the shooting animations for game characters from last wee
 #### Activity 5:
 We are working on the enemies and shooting. We also talks about what are we going to do next.
 Final:[Final New Vision](https://github.com/EW1028/GDIM32-Final/commit/d62c888b79d44cbc6c77aba274d41712bfeada4e)
+
+### W10
+#### Activity 1:
+Attendance: Ruichen Ma, Chengxi Jiang, Eric Wei
+
+#### Activity 2:
+This game still need add option system. Npc can make a dialogue but playtester cannot make option.
+This game still need quest system.
+
+#### Activity 3:
+We so far make the environment, the player now can walk to a NPC and talk to the NPC to interact. There are two targets that player can shoot them, after the HP(Lifes) are all gone they will automatically destory gameobject. We want to make the site better wiht move details add in, and improve more playing expericences. Almost done with this project but still have stuffs to do.
+
+#### Activity 4:
+I did the enviroment design, change the trees and the hills. I get some buildings assets from the unity store and uoload and place in our map.
+Final:[Change Enviroment Design](https://github.com/lindenreid/GDIM32-Final/commit/28a21c7b71b841f0879d812936e0e108092c9227)
